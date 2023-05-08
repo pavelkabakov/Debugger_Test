@@ -1,0 +1,15 @@
+D:\Dev\Знакомство C#\Debugger_Test\bin\Debug\net7.0\Debugger_Test.exe
+D:\Dev\Знакомство C#\Debugger_Test\bin\Debug\net7.0\Debugger_Test.deps.json
+D:\Dev\Знакомство C#\Debugger_Test\bin\Debug\net7.0\Debugger_Test.runtimeconfig.json
+D:\Dev\Знакомство C#\Debugger_Test\bin\Debug\net7.0\Debugger_Test.dll
+D:\Dev\Знакомство C#\Debugger_Test\bin\Debug\net7.0\Debugger_Test.pdb
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\Debugger_Test.csproj.AssemblyReference.cache
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\Debugger_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\Debugger_Test.AssemblyInfoInputs.cache
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\Debugger_Test.AssemblyInfo.cs
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\Debugger_Test.csproj.CoreCompileInputs.cache
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\Debugger_Test.dll
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\refint\Debugger_Test.dll
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\Debugger_Test.pdb
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\Debugger_Test.genruntimeconfig.cache
+D:\Dev\Знакомство C#\Debugger_Test\obj\Debug\net7.0\ref\Debugger_Test.dll
